@@ -20,3 +20,21 @@ Each folder (C00 to C06) corresponds to a set of exercises focused on specific c
 - Practice low-level programming in C
 - Understand memory and pointers
 - Build functions from scratch (no standard library)
+
+## Skills Developed
+C programming (low-level)
+Memory management
+Pointers and data structures
+Algorithmic thinking
+Debugging and problem-solving
+
+## Constraints
+No use of standard library functions (unless allowed)
+Code follows 42 Norm (norminette)
+Functions written from scratch
+
+## Why this repository??
+This repository showcases my learning journey during the Piscine and my ability to build solutions under strict constraints.
+
+## Disclaimer
+This repository is for educational purposes only. If you're currently doing the Piscine, avoid copying solutions and focus on understanding the problems.
